@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <!-- 定义主色调，这里使用蓝色作为示例 -->
+    <color name="colorPrimary">#2196F3</color>
+    <!-- 定义主色调的深色版本，用于状态栏 -->
+    <color name="colorPrimaryDark">#1976D2</color>
+    <!-- 定义强调色，用于按钮、浮动操作按钮等 -->
+    <color name="colorAccent">#FF4081</color>
 </resources>
